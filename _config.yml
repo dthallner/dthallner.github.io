@@ -25,11 +25,11 @@ author:
   name             : "Daniele Thallner"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at University of Florida; Ph.D in Geophysics (2022)."
-  location         : ""Department of Geological Sciences<br>
+  location         : "Department of Geological Sciences<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;University of Florida<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;219 Williamson Hall<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;1843 Stadium Road<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Gainesville, FL 32611, USA""
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Gainesville, FL 32611, USA"
   employer         : 
   uri              : # URL
   email            : "d.thallner@ufl.edu" 
@@ -150,7 +150,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
