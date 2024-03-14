@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Spring 2024: GLY4450/GLY5455 - Introduction to Geophysics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate/Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Florida, Department of Geological Sciences"
+date: 2024-01-08
+location: "Gainesville, FL"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
