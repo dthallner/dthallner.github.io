@@ -1,5 +1,5 @@
 ---
-title: "GLY2030C - Environmental and Engineering Geology"
+title: "Fall 2023: GLY2030C - Environmental and Engineering Geology"
 collection: teaching
 type: "Undergraduate course (online)"
 permalink: /teaching/2014-spring-teaching-1
@@ -20,3 +20,5 @@ The focus of this course is investigating human interactions with the natural wo
 * Building scientific communication skills – the skills and mindset to understand, articulate, and discuss technical concepts to peers and the public. This is done through discussions and the course project.
 
 [Syllabus]("../files/GLY2030C_Envt_Eng_Geo_Fall2023_Thallner.pdf")
+
+Find the latest ratings for this class on [ratemycourses.io](https://www.ratemycourses.io/uf/course/gly2030c)
