@@ -21,7 +21,7 @@ repository               : "dthallner/dthallner.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo-lab.JPG"
   name             : "Daniele Thallner"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at University of Florida; Ph.D in Geophysics (2022)."
