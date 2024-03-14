@@ -2,7 +2,7 @@
 title: "Spring 2024: GLY4450/GLY5455 - Introduction to Geophysics"
 collection: teaching
 type: "Undergraduate/Graduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2024-spring-teaching-1
 venue: "University of Florida, Department of Geological Sciences"
 date: 2024-01-08
 location: "Gainesville, FL"

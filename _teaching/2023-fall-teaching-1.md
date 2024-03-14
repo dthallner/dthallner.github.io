@@ -2,7 +2,7 @@
 title: "Fall 2023: GLY2030C - Environmental and Engineering Geology"
 collection: teaching
 type: "Undergraduate course (online)"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-fall-teaching-1
 venue: "University of Florida, Department of Geological Sciences"
 date: 2023-09-01
 location: "Gainesville, FL"
