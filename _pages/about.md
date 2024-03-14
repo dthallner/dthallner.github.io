@@ -25,5 +25,6 @@ I am a postdoctoral researcher at the Department of Geological Sciences of the U
 News
 ------
 
-Check out the latest talks in out MagNetZ seminar series!
+The 2024 season of the MagNetZ seminar series has started! Dates for upcoming talks will be announced on the gpmag and EMRP mailing lists.
+Check out the latest talk in our MagNetZ seminar series here:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ksCnaK_65zxg9apT&amp;list=PLl05KVkBqZ7bQ_2UA30ZwDje0DXw7n8RR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
