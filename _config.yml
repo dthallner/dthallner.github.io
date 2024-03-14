@@ -8,46 +8,50 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Daniele Thallner"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Daniele Thallner"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dthallner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dthallner/dthallner.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "bio-photo-lab.JPG"
+  name             : "Daniele Thallner"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc at University of Florida; Ph.D in Geophysics (2022)."
+  location         : ""Department of Geological Sciences<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;University of Florida<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;219 Williamson Hall<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;1843 Stadium Road<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Gainesville, FL 32611, USA""
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "d.thallner@ufl.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=uQwvcNAAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "http://orcid.org/0000-0002-5846-4380"
+  pubmed           : 
+  researchgate     : "https://www.researchgate.net/profile/Daniele-Thallner" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "dthallner"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -120,7 +124,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
