@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: bio-banner.jpg
   actions:
-  caption: ""
+  caption: "Photo credit: Hee Jun Cheong"
 excerpt: "Postdoctoral Research Associate - Paleo-, Archaeo-, and Rock magnetism<br>University of Florida"
 ---
 
