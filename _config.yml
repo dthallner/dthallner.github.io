@@ -24,15 +24,15 @@ author:
   avatar           : "bio-photo-lab.JPG"
   name             : "Daniele Thallner"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc at University of Florida; Ph.D in Geophysics (2022)."
-  location         : "Department of Geological Sciences<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;University of Florida<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;219 Williamson Hall<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;1843 Stadium Road<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Gainesville, FL 32611, USA"
+  bio              : "Postdoc at Florida State University; Ph.D in Geophysics (2022)."
+  location         : "Department of Earth, Ocean and Atmospheric Science<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Florida State University<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;EOAS Building 6045<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;1011 Academic Way<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Tallahassee, FL 32304, USA"
   employer         : 
   uri              : # URL
-  email            : "d.thallner@ufl.edu" 
+  email            : "dthallner@fsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
