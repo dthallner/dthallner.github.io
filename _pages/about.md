@@ -27,4 +27,4 @@ News
 
 The 2026 season of the MagNetZ seminar series has started! Dates for upcoming talks of the current season will be announced on the MagNetZ mailin lists. Get in touch if you want to be on this mailing list!
 Check out the latest talk in our MagNetZ seminar series here:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y8Uz6EeHanY?si=qLl4qzjaWWugtTCn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=fwVzvSU3cXRiQCW5&amp;list=PLl05KVkBqZ7bxXT3BLM-uBsEyHrEAFk8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
