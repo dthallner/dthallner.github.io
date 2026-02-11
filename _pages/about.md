@@ -25,6 +25,6 @@ I am a postdoctoral researcher at the Department of Earth, Ocean and Atmospheric
 News
 ------
 
-The 2025 season of the MagNetZ seminar series has started! Dates for upcoming talks of the current season will be announced on the gpmag and EMRP mailing lists.
+The 2026 season of the MagNetZ seminar series has started! Dates for upcoming talks of the current season will be announced on the MagNetZ mailin lists. Get in touch if you want to be on this mailing list!
 Check out the latest talk in our MagNetZ seminar series here:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=sSiTJPcmXrdlJ79c&amp;list=PLl05KVkBqZ7ZWagj6HFDaNa3h5ScUeXm1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y8Uz6EeHanY?si=qLl4qzjaWWugtTCn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
