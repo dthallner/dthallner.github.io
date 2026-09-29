@@ -11,7 +11,7 @@ header:
   overlay_image: bio-banner.jpg
   actions:
   caption: "Photo credit: Hee Jun Cheong"
-excerpt: "Postdoctoral Research Associate - Paleo-, Archaeo-, and Rock magnetism<br>Florida State University"
+excerpt: "Postdoctoral Research Associate - Paleo-, Archaeo-, and Rock magnetism<br>Tufts University"
 ---
 
 
@@ -20,7 +20,7 @@ About me
 
 Research
 ------
-I am a postdoctoral researcher at the Department of Earth, Ocean and Atmospheric Science at the Florida State University, working with [Dr. Richard Bono](https://www.richardkbono.org) to bring together the scientific fields of paleomagnetism, mantle dynamics, and geodynamo modelling. In my research, I am using numerical simulations of Earth’s geodynamo and global mantle convection to create models of the geomagnetic field that can be compared to paleomagnetic data in order to study the evolution of Earth’s deep interior on million-to-billion-year time scales. In addition, I am trying to find points in Earth’s past where the geomagnetic field behaved significantly different from the present-day field by studying small and large anomalies in magnetic field strength that are preserved in archaeological materials and the geological record.
+I am a postdoctoral researcher at the Department of Earth and Climate Sciences at Tufts University, working with [Dr. Athena Eyster](https://as.tufts.edu/ecs/people/faculty/athena-eyster) on exploring the history and evolution of Earth. In my current research, I am measuring paleomagnetic and magnetostratigraphic data to study the Great Oxidation Event ~2.4 billion years ago. In addition, I am using numerical simulations of Earth’s geodynamo and global mantle convection to bring together the scientific fields of paleomagnetism, mantle dynamics, and geodynamo modelling. I am also trying to find points in Earth’s past where the geomagnetic field behaved significantly different from the present-day field by studying small and large anomalies in magnetic field strength that are preserved in archaeological materials and the geological record.
 
 News
 ------
